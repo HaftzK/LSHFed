@@ -1,0 +1,11 @@
+# Default ignored files
+/MNIST
+/data
+/grad
+#/train
+*.pth
+*.pth
+modified_gradient_history.pth
+dot_product_results.pth
+Paper/~$*.docx
+/.idea
